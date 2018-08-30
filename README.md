@@ -1,3 +1,7 @@
+Reversing Tools
+
+AWS Security Tools
+
 **Defensive (Hardening, Security Assessment, Inventory)**
 
 * **Scout2**: [https://github.com/nccgroup/Scout2](https://github.com/nccgroup/Scout2) - Security auditing tool for AWS environments (Python)
