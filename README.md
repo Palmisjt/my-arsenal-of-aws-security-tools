@@ -1,6 +1,3 @@
-Reversing Tools
-
-AWS Security Tools
 
 **Defensive (Hardening, Security Assessment, Inventory)**
 
